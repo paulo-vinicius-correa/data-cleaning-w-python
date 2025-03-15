@@ -10,7 +10,7 @@ Limpeza básica de dados (remoção de duplicados, valores nulos, formatação).
 
 
 #### Codigo para baixar os dados: 
-
+Para baixar o arquivo basta installar a biblioteca ```python kagglehub```
 ``` python
 import kagglehub
 
